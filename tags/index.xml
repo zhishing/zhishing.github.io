@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 芝士</title>
-    <link>https://zhishing.github.com/tags/</link>
+    <link>https://zhishing.github.io/tags/</link>
     <description>Recent content in Tags on 芝士</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zhishing.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhishing.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

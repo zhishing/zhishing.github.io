@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>芝士</title>
-    <link>/</link>
+    <link>https://zhishing.github.com/</link>
     <description>Recent content on 芝士</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 23:17:36 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhishing.github.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>欢迎来到我的个人博客</title>
+      <link>https://zhishing.github.com/post/md/</link>
+      <pubDate>Sat, 23 May 2020 23:17:36 +0800</pubDate>
+      
+      <guid>https://zhishing.github.com/post/md/</guid>
+      <description>欢迎来到我的个人博客   HELLO
+这个博客将会上传些我个人的笔记
+用来存储我的经验和努力
+  </description>
+    </item>
+    
+    <item>
       <title>Hugo的个人博客踩坑事项</title>
-      <link>/post/hugo%E7%9A%84blog%E5%88%B6%E4%BD%9C/</link>
+      <link>https://zhishing.github.com/post/hugo%E7%9A%84blog%E5%88%B6%E4%BD%9C/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/hugo%E7%9A%84blog%E5%88%B6%E4%BD%9C/</guid>
+      <guid>https://zhishing.github.com/post/hugo%E7%9A%84blog%E5%88%B6%E4%BD%9C/</guid>
       <description>个人blog制作的坑，hugo &amp;ndash; 此为本人心酸历程得出，制作环境在manjaro上搭建
   安装hugo
 pacman -S hugo
@@ -26,7 +38,7 @@ git config &amp;ndash;global user.email &amp;ldquo;你自己的邮箱&amp;rdquo;
 git config &amp;ndash;global user.name &amp;ldquo;用户名&amp;rdquo;
     本地启动预览命令为 hugo server -t m10c（m10c为你的主题名） &amp;ndash;buildDrafts    如何新建文章g &amp;ndash;pwd:根目录下 hugo new post/(名字).md 编写是markdown格式
   远端部署
-  生成public文件夹hugo &amp;ndash;themes=m10c &amp;ndash;baseUrl=&amp;quot;https://Dean877.github.io/&amp;rdquo; &amp;ndash;buildDrafts  进入public文件夹
+  生成public文件夹hugo &amp;ndash;themes=m10c &amp;ndash;baseUrl=&amp;quot;https://zhishing.github.com/&amp;rdquo; &amp;ndash;buildDrafts  进入public文件夹
   git init
 git add .</description>
     </item>
